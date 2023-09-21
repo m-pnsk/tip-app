@@ -1,7 +1,7 @@
 # 💸 Tip-app 💸
 This app will allow you to quickly and conveniently evaluate the quality of service and calculate tips.
 
-![image](images/screenshot.jpg)
+![image](app/images/screenshot.jpg)
 
 # How to run
 ## Method 1
